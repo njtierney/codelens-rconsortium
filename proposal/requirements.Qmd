@@ -1,0 +1,34 @@
+---
+bibliography: references.bib
+editor:
+    markdown: 
+      wrap: sentence
+---
+
+# Requirements
+
+<!-- 
+An idea of what is required to make the project actually happen
+-->
+
+## People
+
+
+## Processes
+
+<!-- 
+What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
+-->
+
+
+## Funding
+
+**Funding timeline**
+
+## Summary
+
+```{=html}
+<!--
+A summary of the requirements that contextualises the costs
+-->
+```

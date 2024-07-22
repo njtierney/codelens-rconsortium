@@ -1,0 +1,37 @@
+---
+title: "{codelens}: Facilitate analysis pipelines from large code bases"
+author: 
+  - name: Nicholas Tierney
+    orcid: 0000-0003-1460-8722
+    affiliations:
+      - "Telethon Kids Institute; Perth, Western Australia"
+date: today
+date-format: iso
+format:
+  html:
+    embed-resources: true
+  hikmah-pdf:
+    geometry: 
+      - left=1.25in
+      - right=1.25in
+bibliography: references.bib
+editor:
+    markdown: 
+      wrap: sentence
+      canonical: true
+---
+
+{{< include proposal/problemdefinition.Qmd >}}
+
+{{< include proposal/proposal.Qmd >}}
+
+{{< include proposal/signatories.Qmd >}}
+
+{{< include proposal/timeline.Qmd >}}
+
+{{< include proposal/requirements.Qmd >}}
+
+{{< include proposal/success.Qmd >}}
+
+::: refs
+:::
